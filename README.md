@@ -1,32 +1,12 @@
-# Hello, I'm Agnij Dutta! 👋
+<h1 align="center">Hi 👋, I'm Agnij Dutta</h1> <h3 align="center">A passionate AI and Machine Learning Enthusiast from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnijdutta&label=Profile%20views&color=0e75b6&style=flat" alt="agnijdutta" /> </p>
+🌱 I’m currently diving deeper into Artificial Intelligence, Machine Learning, and Data Science.
 
-🎓 **About Me:**
-- **Name**: Agnij Dutta
-- **Pronouns**: He/Him
-- **Education**: Currently a student at IIT Madras, India.
-- **Interests**: Artificial Intelligence (AI), Machine Learning (ML), and Data Science.
+💬 Ask me about AI Programming, Machine Learning Projects, and Data Science.
 
-🚀 **Passion:**
-I am deeply passionate about AI and ML, constantly seeking to understand and harness the power of these technologies to solve real-world problems. Within a single year, I have immersed myself in advanced AI programming, which has been an exhilarating journey of discovery and innovation.
+📫 How to reach me agnijdutta413@gmail.com
 
-🤝 **Collaboration:**
-I'm eager to collaborate on exciting Machine Learning projects! If you're working on something groundbreaking or need a keen mind to brainstorm with, let's connect. Together, we can build solutions that make a difference.
+👨‍💻 Check out my LinkedIn: Agnij Dutta
 
-🔍 **What I'm Looking For:**
-- Networking with fellow developers.
-- Collaborating on impactful and innovative projects.
-- Continuously learning and sharing knowledge in the AI/ML domain.
+📄 Know more about my work experiences and journey: Coming soon!
 
-🎉 **Fun Facts:**
-- I managed to learn advanced AI programming in just one year.
-- I'm a curious mind, always looking to learn something new and exciting.
-- I enjoy turning complex problems into elegant solutions.
-
-📫 **Reach Me:**
-- **LinkedIn**: [Agnij Dutta](https://www.linkedin.com/in/agnij-dutta-718060309/)
-- **Email**: agnijdutta413@gmail.com
-
-⚡ **Let's Connect:**
-Feel free to reach out to me via LinkedIn or email. Whether you have a project in mind, a question, or just want to chat about AI and ML, I'm always open to new connections and opportunities.
-
-Happy coding! 🚀
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/agnij-dutta-718060309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnijdutta" height="30" width="40" /></a> <a href="mailto:agnijdutta413@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="agnijdutta" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnijdutta&show_icons=true&locale=en&layout=compact" alt="agnijdutta" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnijdutta&show_icons=true&locale=en" alt="agnijdutta" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnijdutta&" alt="agnijdutta" /></p>
