@@ -12,11 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,solidity,react,nextjs,nodejs,java,r,js,html,css&theme=light" alt="Tech stack" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" width="38" title="Ethereum" style="background:white; padding:2px; border-radius:8px;" />
-  <img src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=040" width="38" title="Avalanche" style="background:white; padding:2px; border-radius:8px;" />
-  <img src="https://cryptologos.cc/logos/coinbase-coinbase-logo.png?v=040" width="38" title="Coinbase" style="background:white; padding:2px; border-radius:8px;" />
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" width="38" title="Solana" style="background:white; padding:2px; border-radius:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,solidity,react,nextjs,nodejs,java,r,js,html,css,supabase,firebase,rust&theme=light" alt="Tech stack" />
 </p>
 
 ---
@@ -49,10 +45,7 @@ Currently pursuing my Bachelor's in Artificial Intelligence and Data Science at 
     </td>
     <td align="center" width="33%">
       <img src="https://skillicons.dev/icons?i=solidity" width="36"/>
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" width="32" title="Ethereum"/>
-      <img src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=040" width="32" title="Avalanche"/>
-      <img src="https://cryptologos.cc/logos/coinbase-coinbase-logo.png?v=040" width="32" title="Coinbase"/>
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" width="32" title="Solana"/>
+      <img src="https://skillicons.dev/icons?i=rust" width="36"/>
       <br/>
       <b>Web3 Developer</b>
       <br/>Smart contracts, DApps, DeFi, and blockchain protocols.
