@@ -1,14 +1,108 @@
-<h1 align="center">Hi 👋, I'm Agnij Dutta</h1> <h3 align="center">A passionate AI and Machine Learning Enthusiast from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnijdutta&label=Profile%20views&color=0e75b6&style=flat" alt="agnijdutta" /> </p>
-🌱 I’m currently diving deeper into Artificial Intelligence, Machine Learning, and Data Science.
+<h1 align="center">Hi there 👋, I'm Agnij Dutta!</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/126397667?v=4" width="120" style="border-radius: 50%;" alt="Agnij Dutta's avatar"/>
+</p>
 
-💬 Ask me about AI Programming, Machine Learning Projects, and Data Science.
+<p align="center">
+  <b>
+    🚀 Passionate Software Engineer | 🤖 Data Science & AI Enthusiast | 🌐 Web3 Explorer
+  </b>
+</p>
 
-📫 How to reach me agnijdutta413@gmail.com
+---
 
-👨‍💻 Check out my LinkedIn: Agnij Dutta
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,solidity,react,nextjs,nodejs,java,r,js,html,css&theme=light" alt="Tech stack" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" width="38" title="Ethereum" style="background:white; padding:2px; border-radius:8px;" />
+  <img src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=040" width="38" title="Avalanche" style="background:white; padding:2px; border-radius:8px;" />
+  <img src="https://cryptologos.cc/logos/coinbase-coinbase-logo.png?v=040" width="38" title="Coinbase" style="background:white; padding:2px; border-radius:8px;" />
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" width="38" title="Solana" style="background:white; padding:2px; border-radius:8px;" />
+</p>
 
-📄 Know more about my work experiences and journey: Coming soon!
+---
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/agnij-dutta-718060309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnijdutta" height="30" width="40" /></a> <a href="mailto:agnijdutta413@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="agnijdutta" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnij-dutta&show_icons=true&locale=en&layout=compact" alt="agnij-dutta" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnij-dutta&show_icons=true&locale=en" alt="agnij-dutta" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnij-dutta&" alt="agnij-dutta" /></p>
+## 💡 About Me
 
-[![An image of @agnijdutta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agnijdutta)](https://holopin.io/@agnijdutta)
+Hi, I'm Agnij, a relentless builder who loves to blend creativity with code!  
+Currently pursuing my Bachelor's in Artificial Intelligence and Data Science at <b>IIT Madras</b>, I'm on a mission to bridge the worlds of software engineering, AI, and Web3—one pixel-perfect project at a time.
+
+- 🌱 Always learning: latest AI models, blockchain wizardry, and beautiful UIs
+- 🛠️ Building: from elegant interfaces to smart contracts and intelligent systems
+- 🎤 Fun fact: My codebase is as poetic as my late-night verse (yes, I write poetry too!)
+- ☕ Fuel: Curiosity, creativity, and copious amounts of coffee
+
+---
+
+## 👨‍💻 What I Do
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css" width="180"/><br/>
+      <b>SDE & UI Developer</b>
+      <br/>Pixel-perfect UIs, robust backends, React magic, and Next.js wizardry.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=python,r,java,opencv,tensorflow,pytorch" width="180"/><br/>
+      <b>AI & Data Science Enthusiast</b>
+      <br/>Machine learning, NLP, data wrangling, and predictive analytics.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=solidity" width="36"/>
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" width="32" title="Ethereum"/>
+      <img src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=040" width="32" title="Avalanche"/>
+      <img src="https://cryptologos.cc/logos/coinbase-coinbase-logo.png?v=040" width="32" title="Coinbase"/>
+      <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" width="32" title="Solana"/>
+      <br/>
+      <b>Web3 Developer</b>
+      <br/>Smart contracts, DApps, DeFi, and blockchain protocols.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 The Fun Side
+
+- 🖊️ Part-time poet—making data and emotion rhyme in code and in verse.
+- 🌌 Dreamer—exploring how AI, blockchain, and creativity intersect to make the future brighter.
+- 💼 Looking for: Exciting opportunities where I can learn, contribute, and grow.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnij-dutta&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnij-dutta&layout=compact&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnij-dutta&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:agnijdutta413@gmail.com" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/email-agnijdutta413@gmail.com-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/agnij-dutta" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/GitHub-agnij--dutta-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/agnij-dutta/" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-agnij--dutta-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/0xholmesdev" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Twitter-0xholmesdev-1da1f2?style=for-the-badge&logo=twitter" alt="Twitter/X"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Keep coding, keep growing, and never stop exploring!”</i> 🚀<br/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="coding gif"/>
+</p>
