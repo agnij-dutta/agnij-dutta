@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Agnij Dutta!</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/u/126397667?v=4" width="120" style="border-radius: 50%;" alt="Agnij Dutta's avatar"/>
-</p>
+</p> -->
 
 <p align="center">
   <b>
