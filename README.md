@@ -61,19 +61,6 @@ Currently pursuing my Bachelor's in Artificial Intelligence and Data Science at 
 - 🌌 Dreamer—exploring how AI, blockchain, and creativity intersect to make the future brighter.
 - 💼 Looking for: Exciting opportunities where I can learn, contribute, and grow.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnij-dutta&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnij-dutta&layout=compact&theme=tokyonight" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnij-dutta&theme=tokyonight" height="165"/>
-</p>
-
----
 
 <p align="center">
   <a href="mailto:agnijdutta413@gmail.com" style="margin-right: 20px;">
