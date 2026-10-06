@@ -1,11 +1,11 @@
 # Agnij Dutta
 
-Agnij Dutta is a software engineer in Bengaluru, India, who builds payment infrastructure, smart contracts and zero-knowledge systems, with a focus on AI agents that move money safely.
+Software engineer in Bengaluru. I build payment infrastructure, smart contracts and zero-knowledge systems, mostly for AI agents that move money.
 
-- Co-founder of [Rump Labs](https://www.rumplabs.xyz), a technical studio for founders
-- Founder of [The North Yard](https://www.thenorthyard.com), a software holding company
+- Co-founded [Rump Labs](https://www.rumplabs.xyz), a technical studio for founders
+- Founded [The North Yard](https://www.thenorthyard.com), a software holding company
 - Founding engineer at Swad (stablecoin neobank, San Francisco) and Workwise (300K req/min peak)
-- Data Science at IIT Madras
+- Studying Data Science at IIT Madras
 
 **Site:** [agnij.me](https://www.agnij.me) · [Who is Agnij Dutta?](https://www.agnij.me/about) · [Hire](https://www.agnij.me/hire)
 
