@@ -5,7 +5,7 @@ Software engineer in Bengaluru. I build payment infrastructure, smart contracts 
 - Co-founded [Rump Labs](https://www.rumplabs.xyz), a technical studio for founders
 - Founded [The North Yard](https://www.thenorthyard.com), a software holding company
 - Founding engineer at Swad (stablecoin neobank, San Francisco) and Workwise (300K req/min peak)
-- Studying Data Science at IIT Madras
+- Data Science, IIT Madras
 
 **Site:** [agnij.me](https://www.agnij.me) · [Who is Agnij Dutta?](https://www.agnij.me/about) · [Hire](https://www.agnij.me/hire)
 
