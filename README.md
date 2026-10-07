@@ -11,7 +11,7 @@ Software engineer in Bengaluru. I build payment infrastructure, smart contracts 
 
 ## Selected work
 
-- [Capline](https://github.com/agnij-dutta/capline): on-chain spend limits for AI agents, on npm, deployed on Solana, Avalanche and Stellar
+- [Capline](https://github.com/agnij-dutta/capline): spend limits for AI agents, on npm. On Solana a program-owned vault enforces the cap
 - [FLIP](https://github.com/agnij-dutta/FLIP): escrow-based settlement for Flare FAssets, funded by a Flare Foundation grant
 - [x402-doctor](https://github.com/agnij-dutta/x402-doctor): Lighthouse for x402 endpoints, scanned 38,020 paid URLs
 - [zkexpense](https://github.com/agnij-dutta/zkexpense): one ZK proof over a month of agent payments
